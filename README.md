@@ -1,2 +1,4 @@
 # Pract_new_Repo
-This repo for practice purpose
+
+line 1 -->new file here
+line 2-->
